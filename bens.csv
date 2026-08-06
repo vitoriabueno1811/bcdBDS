@@ -1,5 +1,5 @@
-"id";"marcas";"modelo";"cor";"ano";"valor";
-1;"Fiat";"Argo";"Vermelho";2025;55000.0;
-2;"Volkwagen";"T-Cross";"Preto";2023;60000.0;
-3;"Chevrolet";"onix";"Branco";2024;65000.0;
-4;"hyundai";"Yamada";"Cinza";2021;70000.0;
+"id","marcas","modelo","cor","ano","valor",
+1,"Fiat","Argo","Vermelho",2025,55000.0,
+2,"Volkwagen","T-Cross","Preto",2023,60000.0,
+3,"Chevrolet","onix","Branco",2024,65000.0,
+4,"hyundai","Yamada","Cinza",2021,70000.0,
